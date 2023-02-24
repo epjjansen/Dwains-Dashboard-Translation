@@ -1,0 +1,30 @@
+{
+  "title": "Dwains Controlepaneel",
+  "config": {
+    "step": {
+      "init": {
+        "title": "Dwains Controlepaneel Instellingen",
+        "description": "",
+        "data": {
+          "sidepanel_icon": "Zijpaneel icoon",
+          "sidepanel_title": "Zijpaneel titel"
+        }
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Enkel een instantie van het configuratie scherm van Dwains Controlepaneel is toegestaan."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Dwains Controlepaneel Instellingen",
+        "description": "",
+        "data": {
+          "sidepanel_icon": "Zijpaneel icoon",
+          "sidepanel_title": "Zijpaneel titel"
+        }
+      }
+    }
+  }
+}
